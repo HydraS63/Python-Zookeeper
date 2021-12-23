@@ -1,2 +1,2 @@
 # Python-Zookeeper
-Zookeeper project made on JetBrains Academy
+Project made on JetBrains Academy
